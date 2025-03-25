@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "GHD HELIOS WIDE STYLING HAIR DRYER NOZZLE"
+    },
+    {
+      "id": 2,
+      "name": "GHD PROFESSIONAL HAIR DRYER DIFFUSER"
+    },
+    {
+      "id": 3,
+      "name": "GHD CHRONOS PROFESSIONAL HAIR STRAIGHTENER (26MM PLATE) BLACK"
+    },
+    {
+      "id": 4,
+      "name": "GHD CURVE CREATIVE CURL WAND"
+    },
+    {
+      "id": 5,
+      "name": "GHD CURVE ROLL BAG & HEAT RESISTANT MAT"
+    },
+    {
+      "id": 6,
+      "name": "NEW GHD VOLUME FOREVER - VOLUMIZING BLOW DRY CREAM"
+    },
+    {
+      "id": 7,
+      "name": "GHD DRAMATIC ENDING - SMOOTH & FINISH SERUM"
+    },
+    {
+      "id": 8,
+      "name": "GHD REHAB - ADVANCED SPLIT END THERAPY"
+    },
+    {
+      "id": 9,
+      "name": "GHD SHINY EVER AFTER - FINAL SHINE SPRAY"
+    },
+    {
+      "id": 10,
+      "name": "GHD STYLE GIFT SET"
+    },
+    {
+      "id": 11,
+      "name": "GHD THE ALL ROUNDER - PADDLE BRUSH"
+    },
+    {
+      "id": 12,
+      "name": "GHD DUET STYLE POWER COUPLE BAG"
+    },
+    {
+      "id": 13,
+      "name": "NEW GHD DUET BLOWDRY HAIR DRYER BRUSH IN BLACK"
+    }
+  ]
+}

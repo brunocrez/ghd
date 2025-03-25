@@ -1,0 +1,18 @@
+<input
+  class="input"
+  type="text"
+  [(ngModel)]="inputText"
+  (input)="onInputChange()"
+/>
+
+<label>Sort:</label>
+<select [(ngModel)]="filterOption" (change)="onSortChange()">
+  <option value="asc">ASC</option>
+  <option value="desc">DESC</option>
+</select>
+
+<ul>
+  <li *ngFor="let product of products$ | async">
+    {{ product.id }} - {{ product.name }}
+  </li>
+</ul>
